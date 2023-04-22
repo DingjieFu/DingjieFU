@@ -13,6 +13,3 @@
 - :mahjong: 麻将大师 Master mahjong player
 - :scroll: 业余作家 Amateur writer
 
-<a>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DingjieFu&theme=dracula&hide_title=true">
-</a>
