@@ -7,8 +7,10 @@
 
 - :broken_heart: 离异带两娃 Divorced with two children
 - :school: Prospective graduate student at HUST
+
+
 - :mahjong: 麻将高手 Master mahjong player
+- :microphone: 最强说唱歌手之一 One of the best rappers
 
-
-- 📜 微信公众号(Wechat Official Accounts)
+- :scroll: 业余作家 Amateur writer
 - :e-mail: 18370351238@163.com
