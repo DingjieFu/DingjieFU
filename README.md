@@ -6,8 +6,9 @@
 </a>
 
 - :broken_heart: 离异带两娃 Divorced with two children
-- :school: Huazhong University of Science and Technology(HUST)
+- :school: Prospective graduate student at HUST
 - :mahjong: 麻将高手 Master mahjong player
 
 
 - 📜 微信公众号(Wechat Official Accounts)
+- :e-mail: 18370351238@163.com
