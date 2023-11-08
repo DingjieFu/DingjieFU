@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/DingjieFu">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DingjieFu&theme=dracula&hide_title=true&show_icons=true&icon_color=a7535a&text_color=474b4c&bg_color=ffffff">
+<img align="right" src="http://github-readme-stats.vercel.app/api?username=DingjieFu&theme=dracula&hide_title=true&show_icons=true&icon_color=a7535a&text_color=474b4c&bg_color=ffffff">
 </a>
 
   
@@ -13,3 +13,4 @@
 - :microphone: 说唱歌手 Professional rapper
 - :mahjong: 麻将大师 Master mahjong player
 - :yum: 我爱加班 I love working overtime
+
