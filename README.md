@@ -1,7 +1,7 @@
 ### 嗨, 好久不见 👋
 
 
-<a href="https://github.com/DingjieFu">
+<a href="http://github.com/DingjieFu">
 <img align="right" src="http://github-readme-stats.vercel.app/api?username=DingjieFu&theme=dracula&hide_title=true&show_icons=true&icon_color=a7535a&text_color=474b4c&bg_color=ffffff">
 </a>
 
